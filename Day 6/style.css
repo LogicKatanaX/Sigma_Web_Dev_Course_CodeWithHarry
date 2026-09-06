@@ -1,0 +1,17 @@
+p {
+    background-color: antiquewhite;
+}
+
+a {
+    color: hsl(151, 100%, 49%);
+    background-color: snow;
+}
+
+div {
+    color: black;
+    background-color: aqua;
+}
+
+span{
+    background-color: bisque;
+}
